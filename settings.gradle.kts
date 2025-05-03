@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ws_android_ui_01"
+rootProject.name = "ws_android_ui_layout"
 include(":app")
